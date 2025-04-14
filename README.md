@@ -120,7 +120,6 @@ game_client.execute(random.choice(list(all_supports.values())))
 - [Pytoydl](https://github.com/CharlesPikachu/pytoydl): A toy deep learning framework built upon numpy.
 - [NovelDL](https://github.com/CharlesPikachu/noveldl): Search and download novels from some specific websites.
 
-
 # Citation
 If you use this project in your research, please cite this project.
 ```
@@ -133,7 +132,6 @@ If you use this project in your research, please cite this project.
     howpublished = {\url{https://github.com/CharlesPikachu/Games}},
 }
 ```
-
 
 # More
 
